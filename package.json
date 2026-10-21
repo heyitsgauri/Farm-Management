@@ -1,0 +1,12 @@
+{
+  "name": "autonomous-farm-ai",
+  "private": true,
+  "description": "Run the whole project (FastAPI backend + React frontend) with one command",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "start": "node scripts/dev.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
